@@ -1,4 +1,6 @@
 ## ** Si van a descargar/clonar el proyecto, no olviden primero ejecutar **
+npm install (instala todo lo que está en las carpetas de node_modules)
+npm start (para levantar la webapp en el localhost:3000)
 
 # 1era parte de la clase
 
